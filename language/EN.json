@@ -1,8 +1,8 @@
 {
     "__ASENAJSON__": true,
-    "LANGUAGE": "Sinhala",
-    "LANGCODE": "si",
-    "AUTHOR": "Dumindu",
+    "LANGUAGE": "English",
+    "LANGCODE": "en",
+    "AUTHOR": "Yusuf",
     "STRINGS": {
         "_asena": {
             "COMMAND": "Command",
