@@ -2,7 +2,7 @@
     "__ASENAJSON__": true,
     "LANGUAGE": "Sinhala",
     "LANGCODE": "si",
-    "AUTHOR": "Dinal",
+    "AUTHOR": "Dumindu",
     "STRINGS": {
         "_asena": {
             "COMMAND": "Command",
@@ -176,17 +176,17 @@
             "SONG_DESC": "ඔබ ඉල්ලූ ගීතය උඩුගත කරයි.",
             "NEED_TEXT_SONG": "* කරුණාකර ගීතයක් ලියන්න!*\n*උදාහරණය:* ```.song eminem - rap god```",
             "NO_RESULT": "*මට කිසිවක් සොයා ගත නොහැක😔 :(*",
-            "DOWNLOADING_SONG": "```සිංදුව Downloading වෙනවා පොඩ්ඩක් ඉන්න...🥰```",
-            "UPLOADING_SONG": "```සිංදුව දැන් Uploading වෙනෝ😍...```",
+            "DOWNLOADING_SONG": "```සින්ඩුව DOWNLOAD වෙනගමන්.......😇🌸```",
+            "UPLOADING_SONG": "```ඔන්න දැන් අප්ලෝඩ් වෙනව....😚...```",
             "VIDEO_DESC": "යූටියුබ් වෙතින් වීඩියෝ බාගන්න.",
             "NEED_VIDEO": "*කරුණාකර වීඩියෝ සබැඳියක් ලියන්න!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```වීඩියෝව  Downloading වෙනවා පොඩ්ඩක් ඉන්න...🥰...```",
-            "UPLOADING_VIDEO": "```වීඩියෝව දැන්  Uploading වෙනෝ😍...```",
+            "DOWNLOADING_VIDEO": "```වීඩීයෝව  DOWNLOAD වෙන ගමන්.....😇🍂...```",
+            "UPLOADING_VIDEO": "```විඩියෝව UPLOAD වෙන ගමන්....🤘.....📲...```",
             "YT_DESC": "YouTube එකෙන් හොයනවා.",
             "NEED_WORDS": "```කරුණාකර වචන කිහිපයක් ලියන්න!```",
-            "GETTING_VIDEOS": "```මම වීඩියෝ ගෙන එනවා...```",
+            "GETTING_VIDEOS": "```ඔන්න මම වීඩියෝ ගේනවා....😇...```",
             "NOT_FOUND": "*මට කිසිවක් සොයාගත නොහැකි විය :(*",
-            "SEARCHING": "* 🔎 සෙවීම...*",
+            "SEARCHING": "*සොයන ගමන්....🔎...*",
             "WIKI_DESC": "විකිපීඩියාව පිළිබඳ සෙවීම් විමසුම.",
             "IMG_DESC": "ගූගල් හි අදාළ පින්තූර සෙවීම.",
             "IMG": "ඡායාරූප  Uploading ```{}``` ගණන ```{} ```..."
@@ -194,7 +194,7 @@
         "sticker": {
             "STICKER_DESC": "එය ඔබගේ පිළිතුරු ඡායාරූපයක් හෝ වීඩියෝව ස්ටිකර් බවට පරිවර්තනය කරයි.",
             "NEED_REPLY": "*ඡායාරූපයකට හෝ වීඩියෝවකට පිළිතුරු දෙන්න!*",
-            "DOWNLOADING": "```ස්ටිකර් එකක් සකසනවා...```"
+            "DOWNLOADING": "```ස්ටිකර් එක හදනවා......🔮...```"
         },
         "system_stats": {
             "ALIVE_DESC": "බොට් වැඩ කරනවාද?",
@@ -209,11 +209,11 @@
             "UPDATE": "*ඔබේ බොට් සම්පූර්ණයෙන්ම යාවත්කාලීන වේ!*",
             "NEW_UPDATE": "*බොට් සඳහා නව  update එකක්!*\n\nChanges:\n```",
             "UPDATE_NOW_DESC": "එය යාවත්කාලීන කිරීම් කරයි.",
-            "UPDATING": "_Updating..._",
+            "UPDATING": "_Updating...✍️_",
             "INVALID_HEROKU": "*❌ ඔබේ හෙරෝකූ තොරතුරු වැරදියි!*",
             "UPDATED": "*✅ සාර්ථකව යාවත්කාලීන කිරීම!*",
             "UPDATED_LOCAL": "*✅ සාර්ථකව යාවත්කාලීන කිරීම!*",
-            "AFTER_UPDATE": "*💬 RAVANA  ස්වයංක්රීයව නැවත ආරම්භ වේ!*"
+            "AFTER_UPDATE": "*💬 DARK PANTHER  ස්වයංක්රීයව නැවත ආරම්භ වේ!*"
         },
         "weather": {
             "WEATHER_DESC": "කාලගුණය පෙන්වයි.",
@@ -308,7 +308,7 @@
             "MP4TOAUDİO": "```Converting Video to Audio..```",
             "STİCKER_DESC": "ස්ටිකරය ඡායාරූපයකට පරිවර්තනය කරයි.",
             "STİCKER_NEEDREPLY": "*ඔබ ස්ටිකරයකට පිළිතුරු දිය යුතුය!*",
-            "STİCKER": "``` ඡායාරූපයක් ස්ටිකර් පරිවර්තනය කිරීම..```",
+            "STİCKER": "``` ඡායාරූපයක් ස්ටිකරයක් බවට පරිවර්තනය....🍂👀..```",
             "XMEDİA_DESC": "එය 25 කට වඩා වැඩි මාධ්ය මෙවලම් ප්ලගිනයක් වේ.",
             "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
